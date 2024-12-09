@@ -6,7 +6,9 @@ Here's a README.md file tailored to your project:
 
 A powerful and intuitive tool designed to simplify the process of creating websites. This project demonstrates the use of modern technologies like React, Node.js, and the Claude API to deliver a seamless user experience.
 
-c:\Users\Lenovo\OneDrive\Gambar\Screenshots 1\Screenshot 2024-12-09 205524.png<!-- Replace with the actual relative path to your uploaded image -->
+![UI](image.png)
+
+<!-- Replace with the actual relative path to your uploaded image -->
 
 ## Features
 
