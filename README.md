@@ -35,7 +35,7 @@ root/
    Generate your API key and add it to a `.env` file in the `backend` directory:
 
    ```
-   API_KEY=your-anthropic-api-key
+   CLAUDE_API_KEY=your-anthropic-api-key
    ```
 
 2. **Node.js & npm**:  
